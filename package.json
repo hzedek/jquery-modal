@@ -15,5 +15,8 @@
     "gulp-rename": "^1.2.2",
     "gulp-uglify": "^1.4.1",
     "gulp-uglifycss": "^1.0.6"
+  },
+  "dependencies": {
+    "jquery-modal": "^0.9.2"
   }
 }
